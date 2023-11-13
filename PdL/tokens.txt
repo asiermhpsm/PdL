@@ -1,0 +1,50 @@
+<8, 0>	//token palabra reservada let
+<28, 1>	//token identificador
+<7, 0>	//token palabra reservada int
+<17, 0>	//token ;
+<8, 0>	//token palabra reservada let
+<28, 2>	//token identificador
+<7, 0>	//token palabra reservada int
+<17, 0>	//token ;
+<4, 0>	//token palabra reservada function
+<28, 3>	//token identificador
+<11, 0>	//token palabra reservada string
+<19, 0>	//token (
+<20, 0>	//token )
+<21, 0>	//token {
+<10, 0>	//token palabra reservada return
+<27, 0>	//token cadena
+<17, 0>	//token ;
+<22, 0>	//token }
+<4, 0>	//token palabra reservada function
+<28, 4>	//token identificador
+<7, 0>	//token palabra reservada int
+<19, 0>	//token (
+<7, 0>	//token palabra reservada int
+<28, >	//token identificador
+<20, 0>	//token )
+<21, 0>	//token {
+<28, 1>	//token identificador
+<15, 0>	//token =
+<26, 1>	//token numero entero
+<17, 0>	//token ;
+<28, 2>	//token identificador
+<15, 0>	//token =
+<28, 1>	//token identificador
+<17, 0>	//token ;
+<8, 0>	//token palabra reservada let
+<28, -2>	//token identificador
+<7, 0>	//token palabra reservada int
+<17, 0>	//token ;
+<28, -2>	//token identificador
+<15, 0>	//token =
+<26, 0>	//token numero entero
+<23, 0>	//token +
+<28, 1>	//token identificador
+<23, 0>	//token +
+<26, 1>	//token numero entero
+<17, 0>	//token ;
+<10, 0>	//token palabra reservada return
+<28, -2>	//token identificador
+<17, 0>	//token ;
+<22, 0>	//token }

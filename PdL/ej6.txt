@@ -1,0 +1,16 @@
+let uno int;	// la inicialización es de implementación opcional
+let UNO int;
+
+function salto string ()	
+{
+	return '\n';
+}
+
+function  FactorialDo int (int n)
+{
+	uno = 1;
+	UNO = uno;
+	let factorial int;
+	factorial= 0 + uno + 1;	// variable local inicializada a uno
+	return salto;	// devuelve el valor entero de la variable factorial
+}

@@ -1,0 +1,14 @@
+let s_s string;
+let b boolean;
+let kk boolean;
+
+function pintar (string s, int RR)	
+{
+	let s_s boolean;
+	
+	print'++++Hellooooooooooooo';
+	RR= (8);
+		print(s)
+	;if (s) kk &= b;
+	print RR;		print (4 + (RR + 0987)) +3;
+}

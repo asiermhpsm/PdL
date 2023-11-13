@@ -1,0 +1,13 @@
+let s string;
+let a int;
+let bb boolean;
+a= 9 + 8 + 3;
+
+function RR int (int n, boolean b)
+{
+	let log boolean; let kk int;
+	log= n < b;
+	input kk;
+	if(bb && log)	 print(s);
+	return n;	
+}

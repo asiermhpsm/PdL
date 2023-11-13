@@ -1,0 +1,24 @@
+* LEXEMA : 'uno'
+  + tipo : 'Entero'
+* LEXEMA : 'UNO'
+  + tipo : 'Entero'
+* LEXEMA : 'salto'
+  + tipo : 'Funcion'
+  + numParam : '0'
+  + tipoDev : 'Cadena'
+* LEXEMA : 'FactorialDo'
+  + tipo : 'Funcion'
+  + numParam : '1'
+  + tipoDev : 'Entero'
+  + tipoParam : 'Entero'
+------------------------
+TABLA FUNCION
+------------------------
+------------------------
+TABLA FUNCION
+* LEXEMA : 'n'
+  + tipo : 'Entero'
+* LEXEMA : 'factorial'
+  + tipo : 'Entero'
+------------------------
+------------------------

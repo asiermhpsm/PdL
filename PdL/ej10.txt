@@ -1,0 +1,20 @@
+	function demo ()	// definición de la función demo, sin argumentos y que no devuelve nada
+{
+	let v0 int;let v1 int; let v2 int; let v3 int;// Variables locales
+
+	print ('Escriba "tres" números: ');
+	input v1; input v2;
+	
+	if (v2 < 0) v3= 1;
+	
+	if (((v1 < v2) && (v1 < v3)))	// NOT ((v1 igual a v2) AND (v1 distinto de v3))  
+		print ('Escriba su nombre: ');
+	if (v1 < 0)
+	
+	print (v1); print ('.\n');
+	demo();                               
+	let i int;
+
+}
+return;
+	
